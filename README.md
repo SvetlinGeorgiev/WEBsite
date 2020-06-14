@@ -1,5 +1,5 @@
 # WebProj
-This repo shows my web project. I love Conor McGregor so i made a website about him.
+I love Conor McGregor so i made a website about him.
 
 How to run:
 - npm i install
